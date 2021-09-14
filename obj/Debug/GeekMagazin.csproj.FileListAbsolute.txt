@@ -1,0 +1,7 @@
+D:\vs\C#\GeekMagazin\bin\Debug\GeekMagazin.exe.config
+D:\vs\C#\GeekMagazin\bin\Debug\GeekMagazin.exe
+D:\vs\C#\GeekMagazin\bin\Debug\GeekMagazin.pdb
+D:\vs\C#\GeekMagazin\obj\Debug\GeekMagazin.csprojAssemblyReference.cache
+D:\vs\C#\GeekMagazin\obj\Debug\GeekMagazin.csproj.CoreCompileInputs.cache
+D:\vs\C#\GeekMagazin\obj\Debug\GeekMagazin.exe
+D:\vs\C#\GeekMagazin\obj\Debug\GeekMagazin.pdb
